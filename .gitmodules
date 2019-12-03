@@ -1,3 +1,6 @@
 [submodule "external/date"]
 	path = external/date
 	url = https://github.com/HowardHinnant/date.git
+[submodule "external/nsync"]
+	path = external/nsync
+	url = https://github.com/google/nsync
